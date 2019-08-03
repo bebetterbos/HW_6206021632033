@@ -4,8 +4,7 @@ using namespace std;
 int main()
 {
 	char num;
-	string user,userlogin;
-	int pass,passlogin;
+	string user,userlogin,pass,passlogin;
 	do
 	{
 		cout << "////////// MENU /////////\n1. Register\n2. Login\nQ. Exit Program\n-------------------------\n";
